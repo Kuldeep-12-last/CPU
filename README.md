@@ -5,7 +5,7 @@ A brief description of what this project does and who it's for
 
 # Overview
 
-This repository contains a CPU Scheduler simulation implemented in Python. The simulation supports four scheduling algorithms:
+This repository contains a CPU Scheduler simulation implemented in C++. The simulation supports four scheduling algorithms:
 1.) Shortest Job Next (SJN)
 2.) Round Robin (RR). 
 3.) Shortest Job First (SJF)
